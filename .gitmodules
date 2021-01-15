@@ -1,0 +1,213 @@
+[submodule "spring-boot-starter-openfeign"]
+	path = spring-boot-starter-openfeign
+	url = https://github.com/ethancommitpush/spring-boot-starter-openfeign.git
+[submodule "openssl-ca"]
+	path = openssl-ca
+	url = https://github.com/llekn/openssl-ca.git
+[submodule "sample-cfssl-ca"]
+	path = sample-cfssl-ca
+	url = https://github.com/drewfarris/sample-cfssl-ca.git
+[submodule "ssl.ca"]
+	path = ssl.ca
+	url = https://github.com/etdey/ssl.ca.git
+[submodule "Using-SSL"]
+	path = Using-SSL
+	url = https://github.com/yueyoum/Using-SSL.git
+[submodule "vault-ca"]
+	path = vault-ca
+	url = https://github.com/crisidev/vault-ca.git
+[submodule "yubikey-ca"]
+	path = yubikey-ca
+	url = https://github.com/sloonz/yubikey-ca.git
+[submodule "ansible-vbox-vagrant-kubernetes"]
+	path = ansible-vbox-vagrant-kubernetes
+	url = https://github.com/itwonderlab/ansible-vbox-vagrant-kubernetes.git
+[submodule "docker-openssl"]
+	path = docker-openssl
+	url = https://github.com/jig/docker-openssl.git
+[submodule "k8s-vagrant-virtualbox"]
+	path = k8s-vagrant-virtualbox
+	url = https://github.com/LocusInnovations/k8s-vagrant-virtualbox
+[submodule "kube-ansible"]
+	path = kube-ansible
+	url = https://github.com/kairen/kube-ansible.git
+[submodule "kubernetes_the_easy_way"]
+	path = kubernetes_the_easy_way
+	url = https://github.com/hoeghh/kubernetes_the_easy_way.git
+[submodule "kubernetes-cluster"]
+	path = kubernetes-cluster
+	url = https://github.com/ecomm-integration-ballerina/kubernetes-cluster
+[submodule "kubernetes-vagrant"]
+	path = kubernetes-vagrant
+	url = https://github.com/wsilva/kubernetes-vagrant
+[submodule "kubernetes-vagrant-centos-cluster"]
+	path = kubernetes-vagrant-centos-cluster
+	url = https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster
+[submodule "beanknife"]
+	path = beanknife
+	url = https://github.com/vipcxj/beanknife
+[submodule "jenkins-backup-script"]
+	path = jenkins-backup-script
+	url = https://github.com/sue445/jenkins-backup-script
+[submodule "create-react-app"]
+	path = create-react-app
+	url = https://github.com/facebook/create-react-app
+[submodule "google_containers"]
+	path = google_containers
+	url = https://github.com/zhangguanzhang/google_containers
+[submodule "kubernetes-the-hard-way"]
+	path = kubernetes-the-hard-way
+	url = https://github.com/kelseyhightower/kubernetes-the-hard-way
+[submodule "kubernetes-intro"]
+	path = kubernetes-intro
+	url = https://github.com/dsyer/kubernetes-intro
+[submodule "terraform-alicloud"]
+	path = terraform-alicloud
+	url = https://github.com/zbbkeepgoing/terraform-alicloud
+[submodule "bootiful-testing-online-training"]
+	path = bootiful-testing-online-training
+	url = https://github.com/joshlong/bootiful-testing-online-training
+[submodule "juicefs"]
+	path = juicefs
+	url = https://github.com/juicedata/juicefs
+[submodule "hydra"]
+	path = hydra
+	url = https://github.com/ory/hydra
+[submodule "gitea"]
+	path = gitea
+	url = https://github.com/go-gitea/gitea
+[submodule "scope"]
+	path = scope
+	url = https://github.com/weaveworks/scope
+[submodule "sealos"]
+	path = sealos
+	url = https://github.com/fanux/sealos
+[submodule "kuboard-press"]
+	path = kuboard-press
+	url = https://github.com/eip-work/kuboard-press
+[submodule "k8s_PaaS"]
+	path = k8s_PaaS
+	url = https://github.com/ben1234560/k8s_PaaS
+[submodule "aconfig"]
+	path = aconfig
+	url = https://github.com/cristalhq/aconfig
+[submodule "robotframework"]
+	path = robotframework
+	url = https://github.com/robotframework/robotframework
+[submodule "nestjs-prisma-starter"]
+	path = nestjs-prisma-starter
+	url = https://github.com/fivethree-team/nestjs-prisma-starter
+[submodule "proxify"]
+	path = proxify
+	url = https://github.com/projectdiscovery/proxify
+[submodule "JavaKnowledge"]
+	path = JavaKnowledge
+	url = https://github.com/ipipman/JavaKnowledge
+[submodule "build-your-own-x"]
+	path = build-your-own-x
+	url = https://github.com/danistefanovic/build-your-own-x
+[submodule "AmazingPuzzle"]
+	path = AmazingPuzzle
+	url = https://github.com/iMazy/AmazingPuzzle
+[submodule "go-mime"]
+	path = go-mime
+	url = https://github.com/cubewise-code/go-mime
+[submodule "jd-gui"]
+	path = jd-gui
+	url = https://github.com/java-decompiler/jd-gui
+[submodule "vagrant-vbguest"]
+	path = vagrant-vbguest
+	url = https://github.com/dotless-de/vagrant-vbguest
+[submodule "k6"]
+	path = k6
+	url = https://github.com/loadimpact/k6
+[submodule "tutorials"]
+	path = tutorials
+	url = https://github.com/eugenp/tutorials
+[submodule "Neurax"]
+	path = Neurax
+	url = https://github.com/redcode-labs/Neurax
+[submodule "CopyQ"]
+	path = CopyQ
+	url = https://github.com/hluk/CopyQ
+[submodule "ink"]
+	path = ink
+	url = https://github.com/vadimdemedes/ink
+[submodule "nstatic"]
+	path = nstatic
+	url = https://github.com/tidwall/nstatic
+[submodule "validator"]
+	path = validator
+	url = https://github.com/go-playground/validator
+[submodule "zerolog"]
+	path = zerolog
+	url = https://github.com/rs/zerolog
+[submodule "nomad"]
+	path = nomad
+	url = https://github.com/hashicorp/nomad
+[submodule "wire"]
+	path = wire
+	url = https://github.com/google/wire
+[submodule "pbgopy"]
+	path = pbgopy
+	url = https://github.com/nakabonne/pbgopy
+[submodule "packer"]
+	path = packer
+	url = https://github.com/hashicorp/packer
+[submodule "yaegi"]
+	path = yaegi
+	url = https://github.com/qiangyt/yaegi
+[submodule "go-homedir"]
+	path = go-homedir
+	url = https://github.com/mitchellh/go-homedir
+[submodule "vagrant"]
+	path = vagrant
+	url = https://github.com/hashicorp/vagrant
+[submodule "go-daily-lib"]
+	path = go-daily-lib
+	url = https://github.com/qiangyt/go-daily-lib
+[submodule "product-microgateway"]
+	path = product-microgateway
+	url = https://github.com/wso2/product-microgateway
+[submodule "kui"]
+	path = kui
+	url = https://github.com/IBM/kui
+[submodule "redcon"]
+	path = redcon
+	url = https://github.com/tidwall/redcon
+[submodule "kata-containers"]
+	path = kata-containers
+	url = https://github.com/kata-containers/kata-containers
+[submodule "crossplane"]
+	path = crossplane
+	url = https://github.com/crossplane/crossplane
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/hashicorp/terraform
+[submodule "minio"]
+	path = minio
+	url = https://github.com/minio/minio
+[submodule "Mayastor"]
+	path = Mayastor
+	url = https://github.com/qiangyt/Mayastor
+[submodule "gravity"]
+	path = gravity
+	url = https://github.com/gravitational/gravity
+[submodule "redigo"]
+	path = redigo
+	url = https://github.com/gomodule/redigo
+[submodule "joyqueue"]
+	path = joyqueue
+	url = https://github.com/chubaostream/joyqueue
+[submodule "reveal.js"]
+	path = reveal.js
+	url = https://github.com/hakimel/reveal.js
+[submodule "spectrum"]
+	path = spectrum
+	url = https://github.com/withspectrum/spectrum
+[submodule "yugabyte-db"]
+	path = yugabyte-db
+	url = https://github.com/yugabyte/yugabyte-db
+[submodule "go-cmp"]
+	path = go-cmp
+	url = https://github.com/google/go-cmp
