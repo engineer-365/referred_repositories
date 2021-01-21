@@ -211,3 +211,39 @@
 [submodule "go-cmp"]
 	path = go-cmp
 	url = https://github.com/google/go-cmp
+[submodule "tile38"]
+	path = tile38
+	url = https://github.com/tidwall/tile38
+[submodule "vegeta"]
+	path = vegeta
+	url = https://github.com/tsenart/vegeta
+[submodule "copystructure"]
+	path = copystructure
+	url = https://github.com/mitchellh/copystructure
+[submodule "radon"]
+	path = radon
+	url = https://github.com/radondb/radon
+[submodule "pointerstructure"]
+	path = pointerstructure
+	url = https://github.com/mitchellh/pointerstructure
+[submodule "copypasta"]
+	path = copypasta
+	url = https://github.com/alacritty/copypasta
+[submodule "ulid"]
+	path = ulid
+	url = https://github.com/oklog/ulid
+[submodule "goreleaser"]
+	path = goreleaser
+	url = https://github.com/goreleaser/goreleaser
+[submodule "opentelemetry-collector"]
+	path = opentelemetry-collector
+	url = https://github.com/open-telemetry/opentelemetry-collector
+[submodule "firecracker"]
+	path = firecracker
+	url = https://github.com/firecracker-microvm/firecracker
+[submodule "mapstructure"]
+	path = mapstructure
+	url = https://github.com/mitchellh/mapstructure
+[submodule "go-getter"]
+	path = go-getter
+	url = https://github.com/hashicorp/go-getter
