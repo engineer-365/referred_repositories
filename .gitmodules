@@ -247,3 +247,63 @@
 [submodule "go-getter"]
 	path = go-getter
 	url = https://github.com/hashicorp/go-getter
+[submodule "the-internet"]
+	path = the-internet
+	url = https://github.com/nsec/the-internet
+[submodule "lxd-bgp"]
+	path = lxd-bgp
+	url = https://github.com/stgraber/lxd-bgp.git
+[submodule "juju"]
+	path = juju
+	url = https://github.com/juju/juju
+[submodule "mattermost-server"]
+	path = mattermost-server
+	url = https://github.com/mattermost/mattermost-server.git
+[submodule "hugo"]
+	path = hugo
+	url = https://github.com/gohugoio/hugo.git
+[submodule "script"]
+	path = script
+	url = https://github.com/bitfield/script
+[submodule "httpexpect"]
+	path = httpexpect
+	url = https://github.com/gavv/httpexpect
+[submodule "purelb"]
+	path = purelb
+	url = https://gitlab.com/purelb/purelb/
+[submodule "strongbox"]
+	path = strongbox
+	url = https://github.com/strongbox/strongbox
+[submodule "zerocode"]
+	path = zerocode
+	url = https://github.com/authorjapps/zerocode
+[submodule "next.js"]
+	path = next.js
+	url = https://github.com/vercel/next.js
+[submodule "p5.js"]
+	path = p5.js
+	url = https://github.com/processing/p5.js
+[submodule "botpress"]
+	path = botpress
+	url = https://github.com/botpress/botpress
+[submodule "tikv"]
+	path = tikv
+	url = https://github.com/tikv/tikv
+[submodule "LxdMosaic"]
+	path = LxdMosaic
+	url = https://github.com/turtle0x1/LxdMosaic
+[submodule "netlify-cms"]
+	path = netlify-cms
+	url = https://github.com/netlify/netlify-cms
+[submodule "TKS"]
+	path = TKS
+	url = https://github.com/zimmertr/TKS
+[submodule "brave-browser"]
+	path = brave-browser
+	url = https://github.com/brave/brave-browser
+[submodule "brave-core"]
+	path = brave-core
+	url = https://github.com/brave/brave-core
+[submodule "lxdock"]
+	path = lxdock
+	url = https://github.com/lxdock/lxdock
