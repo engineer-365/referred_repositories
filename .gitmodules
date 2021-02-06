@@ -307,3 +307,48 @@
 [submodule "lxdock"]
 	path = lxdock
 	url = https://github.com/lxdock/lxdock
+[submodule "vm-remotelxd"]
+	path = vm-remotelxd
+	url = https://github.com/lxdock/vm-remotelxd
+[submodule "vagrant-vboxlxd"]
+	path = vagrant-vboxlxd
+	url = https://github.com/nodoubleg/vagrant-vboxlxd
+[submodule "kubernetes-lxd"]
+	path = kubernetes-lxd
+	url = https://github.com/corneliusweig/kubernetes-lxd
+[submodule "automaticserver_lxe"]
+	path = automaticserver_lxe
+	url = https://github.com/automaticserver/lxe
+[submodule "justmeandopensource_kubernetes"]
+	path = justmeandopensource_kubernetes
+	url = https://github.com/justmeandopensource/kubernetes
+[submodule "migrating-to-cloud-native-application-architectures"]
+	path = migrating-to-cloud-native-application-architectures
+	url = https://github.com/rootsongjc/migrating-to-cloud-native-application-architectures
+[submodule "kubernetes-handbook"]
+	path = kubernetes-handbook
+	url = https://github.com/rootsongjc/kubernetes-handbook
+[submodule "guide-to-cloud-native-app"]
+	path = guide-to-cloud-native-app
+	url = https://github.com/rootsongjc/guide-to-cloud-native-app
+[submodule "cloud-native"]
+	path = cloud-native
+	url = https://github.com/rootsongjc/cloud-native
+[submodule "istio-handbook"]
+	path = istio-handbook
+	url = https://github.com/rootsongjc/istio-handbook
+[submodule "eng-practices"]
+	path = eng-practices
+	url = https://github.com/rootsongjc/eng-practices
+[submodule "cloud-native-infra"]
+	path = cloud-native-infra
+	url = https://github.com/rootsongjc/cloud-native-infra
+[submodule "cloud-native-sandbox"]
+	path = cloud-native-sandbox
+	url = https://github.com/rootsongjc/cloud-native-sandbox
+[submodule "follow-me-install-kubernetes-cluster"]
+	path = follow-me-install-kubernetes-cluster
+	url = https://github.com/opsnull/follow-me-install-kubernetes-cluster
+[submodule "serverless-handbook"]
+	path = serverless-handbook
+	url = https://github.com/rootsongjc/serverless-handbook
