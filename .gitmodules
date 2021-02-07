@@ -156,7 +156,7 @@
 	url = https://github.com/hashicorp/packer
 [submodule "yaegi"]
 	path = yaegi
-	url = https://github.com/qiangyt/yaegi
+	url = https://github.com/traefik/yaegi
 [submodule "go-homedir"]
 	path = go-homedir
 	url = https://github.com/mitchellh/go-homedir
@@ -165,7 +165,7 @@
 	url = https://github.com/hashicorp/vagrant
 [submodule "go-daily-lib"]
 	path = go-daily-lib
-	url = https://github.com/qiangyt/go-daily-lib
+	url = https://github.com/darjun/go-daily-lib
 [submodule "product-microgateway"]
 	path = product-microgateway
 	url = https://github.com/wso2/product-microgateway
@@ -189,7 +189,7 @@
 	url = https://github.com/minio/minio
 [submodule "Mayastor"]
 	path = Mayastor
-	url = https://github.com/qiangyt/Mayastor
+	url = https://github.com/openebs/Mayastor
 [submodule "gravity"]
 	path = gravity
 	url = https://github.com/gravitational/gravity
@@ -352,3 +352,39 @@
 [submodule "serverless-handbook"]
 	path = serverless-handbook
 	url = https://github.com/rootsongjc/serverless-handbook
+[submodule "lin-wx-ui"]
+	path = lin-wx-ui
+	url = https://github.com/c10342/lin-wx-ui
+[submodule "kubeadm-ha"]
+	path = kubeadm-ha
+	url = https://github.com/TimeBye/kubeadm-ha
+[submodule "kubeadm-playbook"]
+	path = kubeadm-playbook
+	url = https://github.com/ReSearchITEng/kubeadm-playbook
+[submodule "lenti1016_kubeadm-ha"]
+	path = lenti1016_kubeadm-ha
+	url = https://github.com/lentil1016/kubeadm-ha
+[submodule "kubeadm-workshop"]
+	path = kubeadm-workshop
+	url = https://github.com/luxas/kubeadm-workshop
+[submodule "kubeadm-ansible"]
+	path = kubeadm-ansible
+	url = https://github.com/kairen/kubeadm-ansible
+[submodule "cookeem_kubeadm-ha"]
+	path = cookeem_kubeadm-ha
+	url = https://github.com/cookeem/kubeadm-ha
+[submodule "bento"]
+	path = bento
+	url = https://github.com/chef/bento
+[submodule "macos-menubar-wireguard"]
+	path = macos-menubar-wireguard
+	url = https://github.com/aequitas/macos-menubar-wireguard
+[submodule "k8s-playground"]
+	path = k8s-playground
+	url = https://github.com/davidkbainbridge/k8s-playground
+[submodule "collgroup"]
+	path = collgroup
+	url = https://github.com/higker/collgroup
+[submodule "NSudo"]
+	path = NSudo
+	url = https://github.com/M2Team/NSudo
